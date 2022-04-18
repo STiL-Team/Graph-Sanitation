@@ -1,23 +1,18 @@
 # Graph Sanitation Papers Collection
 ### Editor: Yulin Zhu
-This collection will includes attack and defense for recommendation system (RS). And also some general ideas that related.  
+This collection will includes the image/graph sanitation and denoising methods on social networks. And also some general ideas that related.  
 
 Contents:
-- Attack
-- Defense
-- General
+- Image
+- Graph
 
-## Attack
-To be filled
-## Defense
-To be filled
-## General
-### Graph Anomaly Detection
-Anomaly detection techniques can be employed in Defense models. Especially Graph anomaly detection (GAD). 
+## Image
+## Graph
+### Graph Denoising
 
-| Type | Paper names | Link |
-| ------ | ------ | ------|
-| Review | A Comprehensive Survey on Graph Anomaly Detection with Deep Learning |https://arxiv.org/pdf/2106.07178.pdf|
+| Year | Paper names | Conference | Link |
+| ------ | ------ | ------ | ------ |
+| 2021 | Mask-GVAE: Blind Denoising Graphs via Partition | WWW | https://dl.acm.org/doi/10.1145/3442381.3449899 |
 
 ### Label Flipping Defense
 
