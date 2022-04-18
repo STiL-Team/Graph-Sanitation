@@ -16,6 +16,6 @@ Contents:
 
 ### Causal Sanitation
 
-| Type | Paper names | Link |
-| ------ | ------ | ------|
+| Type | Paper names | Conference |Link | Issue |
+| ------ | ------ | ------| ------| ------|
 | 2021 |CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks | ICML Workshop | https://a-lucic.github.io/talks/ICML_HILL_cfgnn.pdf |  |
