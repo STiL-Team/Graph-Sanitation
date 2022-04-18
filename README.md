@@ -14,8 +14,8 @@ Contents:
 | ------ | ------ | ------ | ------ | ------ | 
 | 2021 | Mask-GVAE: Blind Denoising Graphs via Partition | WWW | https://dl.acm.org/doi/10.1145/3442381.3449899 | mincut loss + masked gvae |
 
-### Label Flipping Defense
+### Causal Sanitation
 
 | Type | Paper names | Link |
 | ------ | ------ | ------|
-|Method|Adversarial Label-Flipping Attack and Defense for Graph Neural Networks|https://ieeexplore.ieee.org/document/9338299|
+| 2021 |CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks | ICML Workshop | https://a-lucic.github.io/talks/ICML_HILL_cfgnn.pdf |  |
