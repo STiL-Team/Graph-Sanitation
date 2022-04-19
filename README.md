@@ -24,3 +24,5 @@ Contents:
 | Type | Paper names | Conference |Link | Issue |
 | ------ | ------ | ------| ------| ------|
 | 2019 |Adversarial Examples for Graph Data: Deep Insights into Attack and Defense | IJCAI | https://www.ijcai.org/proceedings/2019/0669.pdf | GCN-Jaccard |
+| ------ | ------ | ------| ------| ------|
+| 2020 |All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs | WSDM | https://dl.acm.org/doi/pdf/10.1145/3336191.3371789 | GCN-SVD |
