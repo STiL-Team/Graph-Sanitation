@@ -1,4 +1,4 @@
-# Graph Sanitation Papers Collection
+# Graph Sanitation and XAI Paper Collections
 ### Editor: Yulin Zhu
 This collection will includes the image/graph sanitation and denoising methods on social networks. And also some general ideas that related.  
 
@@ -8,6 +8,14 @@ Contents:
 - Data sanitization 
 
 ## XAI on graphs
+
+| Year | Paper names | Conference | Link | Issue |
+| ------ | ------ | ------ | ------ | ------ | 
+| 2019 | GNNExplainer: Generating Explanations
+for Graph Neural Networks | NIPS | https://dl.acm.org/doi/10.1145/3442381.3449899 | mutual information loss + edge mask |
+| 2019 | GNNExplainer: Generating Explanations
+for Graph Neural Networks | NIPS | https://dl.acm.org/doi/10.1145/3442381.3449899 | mutual information loss + edge mask |
+
 ## XAI on images and others
 ## Data sanitization
 
