@@ -19,7 +19,7 @@ Contents:
 | ------ | ------ | ------ | ------ | ------ | 
 | 2021 | Mask-GVAE: Blind Denoising Graphs via Partition | WWW | https://dl.acm.org/doi/10.1145/3442381.3449899 | mincut loss + masked gvae |
 
-### Causal Sanitation
+### Graph Sanitation
 
 | Type | Paper names | Conference |Link | Issue |
 | ------ | ------ | ------| ------| ------|
