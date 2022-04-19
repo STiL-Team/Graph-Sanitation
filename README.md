@@ -12,8 +12,7 @@ Contents:
 | Year | Paper names | Conference | Link | Issue |
 | ------ | ------ | ------ | ------ | ------ | 
 | 2019 | GNNExplainer: Generating Explanations for Graph Neural Networks | NIPS | https://dl.acm.org/doi/10.1145/3442381.3449899 | mutual information loss + edge mask |
-| 2019 | GNNExplainer: Generating Explanations
-for Graph Neural Networks | NIPS | https://dl.acm.org/doi/10.1145/3442381.3449899 | mutual information loss + edge mask |
+| 2020 | Parameterized Explainer for Graph Neural Network | NIPS | https://proceedings.neurips.cc/paper/2020/file/e37b08dd3015330dcbb5d6663667b8b8-Paper.pdf | mutual information loss + reparametrization trick + binary concrete distribution |
 
 ## XAI on images and others
 ## Data sanitization
