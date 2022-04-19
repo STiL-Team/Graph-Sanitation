@@ -23,4 +23,4 @@ Contents:
 
 | Type | Paper names | Conference |Link | Issue |
 | ------ | ------ | ------| ------| ------|
-| 2021 |CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks | ICML Workshop | https://a-lucic.github.io/talks/ICML_HILL_cfgnn.pdf |  |
+| 2019 |Adversarial Examples for Graph Data: Deep Insights into Attack and Defense | IJCAI | https://www.ijcai.org/proceedings/2019/0669.pdf | GCN-Jaccard |
