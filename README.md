@@ -3,8 +3,13 @@
 This collection will includes the image/graph sanitation and denoising methods on social networks. And also some general ideas that related.  
 
 Contents:
-- Image
-- Graph
+- XAI on graphs
+- XAI on images and others
+- Data sanitization 
+
+## XAI on graphs
+## XAI on images and others
+## Data sanitization
 
 ## Image
 ## Graph
