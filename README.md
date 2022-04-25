@@ -27,6 +27,7 @@ Contents:
 | Year | Paper names | Conference | Link | Issue |
 | ------ | ------ | ------ | ------ | ------ | 
 | 2021 | Mask-GVAE: Blind Denoising Graphs via Partition | WWW | https://dl.acm.org/doi/10.1145/3442381.3449899 | mincut loss + masked gvae |
+| 2021 | Learning to drop: robust graph neural network via topological denoising | WSDM | https://dl.acm.org/doi/pdf/10.1145/3437963.3441734 | learn denoising network to drop task-irrelevant edges |
 
 ### Graph Sanitation
 
