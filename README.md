@@ -8,7 +8,7 @@ Contents:
 - Data sanitization 
 
 ## XAI on graphs
-
+### Counterfactual inference on graphs
 | Year | Paper names | Conference | Link | Issue |
 | ------ | ------ | ------ | ------ | ------ | 
 |2019|GNNExplainer: Generating Explanations for Graph Neural Networks|NIPS|https://dl.acm.org/doi/10.1145/3442381.3449899 |mutual information loss + edge mask|
