@@ -11,11 +11,11 @@ Contents:
 ### Counterfactual inference on graphs
 | Year | Paper names | Conference | Link | Issue |
 | ------ | ------ | ------ | ------ | ------ | 
-|2019|GNNExplainer: Generating Explanations for Graph Neural Networks|NIPS|https://dl.acm.org/doi/10.1145/3442381.3449899 |mutual information loss + edge mask|
-|2020|Parameterized Explainer for Graph Neural Network|NIPS|https://proceedings.neurips.cc/paper/2020/file/e37b08dd3015330dcbb5d6663667b8b8-Paper.pdf|reparametrization trick + binary concrete distribution|
-|2021|Generative Causal Explanations for Graph Neural Networks|ICML|http://proceedings.mlr.press/v139/lin21d/lin21d.pdf|Granger causality|
-|2021|CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks|ICML Workshop|https://a-lucic.github.io/talks/ICML_HILL_cfgnn.pdf|Causal + edge mask|
-|2021|Counterfactual Graph Learning for Link Prediction|Arxiv|https://arxiv.org/pdf/2106.02172.pdf|joint training: factual links + counterfactual links|
+| 2019 | GNNExplainer: Generating Explanations for Graph Neural Networks | NIPS | https://dl.acm.org/doi/10.1145/3442381.3449899 | mutual information loss + edge mask|
+| 2020 | Parameterized Explainer for Graph Neural Network | NIPS | https://proceedings.neurips.cc/paper/2020/file/e37b08dd3015330dcbb5d6663667b8b8-Paper.pdf | reparametrization trick + binary concrete distribution |
+| 2021 | Generative Causal Explanations for Graph Neural Networks | ICML | http://proceedings.mlr.press/v139/lin21d/lin21d.pdf| Granger causality |
+| 2021 | CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks | ICML Workshop |https://a-lucic.github.io/talks/ICML_HILL_cfgnn.pdf | Causal + edge mask |
+| 2021 | Counterfactual Graph Learning for Link Prediction |Arxiv | https://arxiv.org/pdf/2106.02172.pdf | joint training: factual links + counterfactual links |
 
 ## XAI on images and others
 ## Data sanitization
