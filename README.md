@@ -11,8 +11,8 @@ Contents:
 ### Counterfactual explanation on graphs
 | Year | Paper names | Venue | Link | Issue |
 | ------ | ------ | ------ | ------ | ------ | 
-| 2019 | GNNExplainer: Generating Explanations for Graph Neural Networks | NIPS | https://dl.acm.org/doi/10.1145/3442381.3449899 | mutual information loss + edge mask|
-| 2020 | Parameterized Explainer for Graph Neural Network | NIPS | https://dl.acm.org/doi/pdf/10.5555/3495724.3497370 | reparametrization trick + binary concrete distribution |
+| 2019 | GNNExplainer: Generating Explanations for Graph Neural Networks | NIPS | https://arxiv.org/abs/1903.03894?context=cs | mutual information loss + edge mask|
+| 2020 | Parameterized Explainer for Graph Neural Network | NIPS | https://arxiv.org/pdf/2011.04573.pdf | reparametrization trick + binary concrete distribution |
 | 2021 | Generative Causal Explanations for Graph Neural Networks | ICML | http://proceedings.mlr.press/v139/lin21d/lin21d.pdf| Granger causality |
 | 2021 | CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks | ICML Workshop |https://a-lucic.github.io/talks/ICML_HILL_cfgnn.pdf | Causal + edge mask |
 | 2021 | Counterfactual Graph Learning for Link Prediction |Arxiv | https://arxiv.org/pdf/2106.02172.pdf | joint training: factual links + counterfactual links |
