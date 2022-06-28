@@ -36,6 +36,7 @@ Contents:
 | 2019 |Adversarial Examples for Graph Data: Deep Insights into Attack and Defense | IJCAI | https://www.ijcai.org/proceedings/2019/0669.pdf | GCN-Jaccard |
 | 2020 |All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs | WSDM | https://dl.acm.org/doi/10.1145/3336191.3371789 | GCN-SVD |
 | 2022 |Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN | KDD | https://ponderly.github.io/pub/STABLE_KDD2022.pdf | constrastive method |
+| 2022 | Graph Sanitation with Application to Node Classification | TheWebConf | https://arxiv.org/pdf/2105.09384.pdf | poisoning manner |
 
 ### Adversarial Node Detection
 | Type | Paper names | Venue |Link | Issue |
